@@ -1,5 +1,5 @@
 <h1 align="center">About me</h1>
-<h3 align="center">Im a passionate developer from india interested in full stack development</h3>
+<h3 align="center">Im a pre-final year cs student from NIT Tiruchirappalli</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=typicalasian81" alt="typicalasian81" /></a> </p>
 
